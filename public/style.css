@@ -13,7 +13,7 @@ video {
   flex-direction: column;
   justify-content: center;
   height: 50vh;
-  background-color: #fafafa;
+  background-color: #e2e0e0;
   overflow-y: scroll;
   /* overflow: hidden; */
 }
