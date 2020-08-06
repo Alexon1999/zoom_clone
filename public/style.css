@@ -1,0 +1,19 @@
+#video-grid {
+  display: flex;
+  justify-content: center;
+}
+
+video {
+  height: 300px;
+  width: 400px;
+}
+
+.messages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+  background-color: #fafafa;
+  overflow-y: scroll;
+  /* overflow: hidden; */
+}
